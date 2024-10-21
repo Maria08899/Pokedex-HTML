@@ -1,2 +1,1 @@
-# Pokedex-HTML
-Projeto de desenvolvimento Web, HTML/CSS/JAVASCRIPT com Boostrap para apresentação de uma pokedex
+https://github.com/Maria08899/Bando-do-Chap-u-de-Palha-One-Piece-.git
